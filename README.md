@@ -39,5 +39,3 @@ To run the code:
 
 ```bash
 python main.py
-
-To run the standalone version, use the .exe file built with PYInstaller
